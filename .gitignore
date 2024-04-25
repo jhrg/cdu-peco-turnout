@@ -1,0 +1,4 @@
+*.bak
+*.zip
+gerber/
+cdu-board-1.0-backups/
