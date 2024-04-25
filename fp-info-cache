@@ -1,4 +1,4 @@
-21954609733769282
+21956325026075037
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2442,6 +2442,13 @@ Power Jack
 0
 3
 3
+CDU footprints
+CDU-QR
+
+
+0
+0
+0
 CDU footprints
 CONN3_OSTVN03A150_OST
 
